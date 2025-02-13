@@ -1,6 +1,6 @@
 # python-ka-kaam-kiet
-python case study 
 auther-himanshu mishra 
+python case study 
 print("Welcome to the Grocery Store Calculator!")
 
 total_cost = 0  # Initialize total cost
